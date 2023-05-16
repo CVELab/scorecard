@@ -51,7 +51,7 @@ require (
 	github.com/mcuadros/go-jsonschema-generator v0.0.0-20200330054847-ba7a369d4303
 	github.com/onsi/ginkgo/v2 v2.9.2
 	github.com/otiai10/copy v1.10.0
-	sigs.k8s.io/release-utils v0.6.0
+	sigs.k8s.io/release-utils v0.7.4
 )
 
 require (
