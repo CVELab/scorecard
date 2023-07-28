@@ -26,7 +26,7 @@ require (
 	github.com/jszwec/csvutil v1.8.0
 	github.com/moby/buildkit v0.11.5
 	github.com/olekukonko/tablewriter v0.0.5
-	github.com/onsi/gomega v1.27.6
+	github.com/onsi/gomega v1.27.8
 	github.com/shurcooL/githubv4 v0.0.0-20201206200315-234843c633fa
 	github.com/shurcooL/graphql v0.0.0-20200928012149-18c5c3165e3a // indirect
 	github.com/sirupsen/logrus v1.9.0
@@ -35,7 +35,7 @@ require (
 	go.opencensus.io v0.24.0
 	gocloud.dev v0.29.0
 	golang.org/x/text v0.11.0
-	golang.org/x/tools v0.8.0
+	golang.org/x/tools v0.9.3
 	google.golang.org/genproto v0.0.0-20230330154414-c0448cd141ea // indirect
 	google.golang.org/protobuf v1.30.0
 	gopkg.in/yaml.v2 v2.4.0
@@ -49,7 +49,7 @@ require (
 	github.com/gobwas/glob v0.2.3
 	github.com/google/osv-scanner v1.3.1
 	github.com/mcuadros/go-jsonschema-generator v0.0.0-20200330054847-ba7a369d4303
-	github.com/onsi/ginkgo/v2 v2.9.2
+	github.com/onsi/ginkgo/v2 v2.11.0
 	github.com/otiai10/copy v1.10.0
 	sigs.k8s.io/release-utils v0.6.0
 )
@@ -172,7 +172,7 @@ require (
 	golang.org/x/exp v0.0.0-20230321023759-10a507213a29
 	golang.org/x/net v0.12.0 // indirect
 	golang.org/x/oauth2 v0.6.0 // indirect
-	golang.org/x/sync v0.1.0 // indirect
+	golang.org/x/sync v0.2.0 // indirect
 	golang.org/x/sys v0.10.0 // indirect
 	golang.org/x/xerrors v0.0.0-20220907171357-04be3eba64a2 // indirect
 	google.golang.org/api v0.114.0 // indirect
